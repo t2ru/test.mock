@@ -1,13 +1,13 @@
 # mock
 
-FIXME: write description
+clojure.contrib.mock for Clojure 1.3
 
 ## Usage
 
-FIXME: write
+same sa clojure.contrib.mock.
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Tetsuya Takatsuru
 
 Distributed under the Eclipse Public License, the same as Clojure.
